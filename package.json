@@ -1,0 +1,1 @@
+{"name": "enterprise-react-app", "version": "1.0.0", "scripts": {"start": "node src/main.js"}, "dependencies": {"react": "^18.2.0", "react-dom": "^18.2.0"}}
